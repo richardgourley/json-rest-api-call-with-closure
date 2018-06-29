@@ -2,9 +2,8 @@ JSON REST API CALL WITH CLOSURE
 
 This is an example for Javascript intermediate level students on how to create a get request and get information from an api.
 
-A demonstration of closure is included with comments to try and show a simple example of closure in action.
-
-The example shows how you can pass in a variable containing a string into a function, which then uses the string to create an endpoint which is then called in our XMLHttpRequest. 
+This example shows how you can assign functions with parameters to variables and use (call) these variables later.  This is done using closure.
+Hopefully, when JS students see the power of closure in action, it will help them think about how it could be helpful in their applications!
 
 SKILLS COVERED
 - JSON
