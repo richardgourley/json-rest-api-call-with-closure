@@ -10,7 +10,6 @@ An example of closure is added to this example.
 
 ABOUT CLOSURE
 
-- With closure, a variable 'remembers' the environment it was created in.
 - The key point is that we create a variable and add an OUTER function to it.  When we call the variable above we can access the INNER function inside the outer variable!
 - You can pass variables that are assigned functions with closure around your program and they remember the enclosing scope!
 
