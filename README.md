@@ -17,7 +17,7 @@ The two key lines are as follows in demonstrating when the inner() and outer() f
 - OUTER function = 
 var wordpressCategory = outer("wordpress");
 
-- INNER function called later on but 'remembers' the inner function! =
+- INNER function called later on but 'remembers' the inner functiongit ! =
 wordpressCategory(true);
 
 - NOTE:  Closure is not exclusive to XMLHttpRequests!  It can be used in many programming situations!  Enjoy!
