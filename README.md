@@ -1,4 +1,4 @@
-#JSON REST API CALL WITH CLOSURE
+# JSON REST API CALL WITH CLOSURE
 
 This is an example for Javascript intermediate level students on how to create a get request and get information from a JSON file.
 
@@ -8,7 +8,7 @@ The JSON file has data to represent typical objects retreived from content manag
 
 We have also added an example of closure.  In understanding closure, the key thing to understand is at what point we call the INNER and OUTER methods of a function.
 
-#CLOSURE IN ACTION
+# CLOSURE IN ACTION
 
 The two key lines, using closure in the example, which demonstrate when the inner() and outer() functions are called are:
 
@@ -24,7 +24,7 @@ wordpressCategory(true);
 
 Take a look at some other examples of closure with repositories I have which give more examples of closure in action.
 
-##SKILLS COVERED
+## SKILLS COVERED
 - JSON
 - XMLHttpRequest()
 - Closure
