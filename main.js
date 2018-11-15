@@ -45,7 +45,7 @@ javascriptCategory(false);
 wordpressCategory(true);
 
 //You can pass variables, which have been assigned functions with closure, around your program!
-//It's very powerful!
+
 
 
 
